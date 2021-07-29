@@ -1,1 +1,1 @@
-# browser-tictactoe
+# Browser Tic-Tac-Toe
